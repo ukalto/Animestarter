@@ -1,0 +1,4 @@
+#idea folder
+.idea/
+.DS_Store
+*.log
